@@ -1,2 +1,2 @@
 # prat-js-objetos
-práticas
+Práticas de JavaScript - Treino de objetos
